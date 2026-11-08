@@ -181,5 +181,5 @@ _Adicione aqui um print do dashboard:_
 **Gabi**
 Estudante de Ciência da Computação em transição de Produto e Análise de Negócios para Engenharia de Software e IA/ML.
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: _adicione o link_
+- GitHub: [@agabrielabarros](https://github.com/agabrielabarros)
+- LinkedIn: _linkedin.com/in/imgabrielabarros_
